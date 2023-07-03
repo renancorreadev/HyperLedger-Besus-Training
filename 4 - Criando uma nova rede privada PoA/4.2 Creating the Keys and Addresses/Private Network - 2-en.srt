@@ -1,0 +1,27 @@
+0
+00:00:00,820 --> 00:00:12,220
+Neste vídeo, ensinaremos como criar um endereço usando o Besu que você usará como parte do tutorial Clique Network Proof of Authority.
+
+1
+00:00:13,290 --> 00:00:20,646
+Primeiro, vamos navegar para a pasta "Node-1" dentro da nossa pasta "Clique-Network".
+
+2
+00:00:22,879 --> 00:00:30,830
+Agora, vou passar para a Documentação e guiá-lo pelo comando que vamos executar e pelas opções.
+
+3
+00:00:31,530 --> 00:00:48,207
+Então, vamos executar o comando 'public-key export-address' e passar duas opções, o caminho dos dados para escrever na pasta "data", e o nome do arquivo que vamos escrever.
+
+4
+00:00:49,746 --> 00:00:51,602
+Vamos passar esse comando para o terminal.
+
+5
+00:00:52,170 --> 00:01:00,671
+E quando a executamos, a saída que obtemos é que geramos uma nova chave pública e onde ela foi armazenada.
+
+6
+00:01:01,592 --> 00:01:10,495
+Então, vamos navegar até a pasta "data" e garantir que a chave e o endereço "Node-1" estejam escritos lá, e eles estavam.

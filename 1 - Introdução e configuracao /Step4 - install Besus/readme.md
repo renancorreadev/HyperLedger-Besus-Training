@@ -1,3 +1,0 @@
-Neste capítulo, você aprenderá os requisitos e dependências do sistema para instalar o Hyperledger Besu. Dependências são pacotes de software que não são fornecidos na instalação do Hyperledger Besu, mas são necessários para instalar ou usar o Hyperledger Besu. Compreender o papel que as dependências desempenham ajudará você a garantir que possa executar o Hyperledger Besu sem erros.
-
-Em seguida, você instalará o Hyperledger Besu e confirmará se ele foi instalado corretamente. Você pode seguir junto com a opção de instalação que corresponde ao seu sistema operacional. Se você estiver curioso, poderá ver as diferenças nos métodos de instalação para Linux, MacOS e Windows, fornecendo informações sobre a diferença histórica entre esses ambientes de computação.

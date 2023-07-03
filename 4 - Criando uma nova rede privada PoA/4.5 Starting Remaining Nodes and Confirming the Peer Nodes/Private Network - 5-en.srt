@@ -1,0 +1,75 @@
+0
+00:00:00,550 --> 00:00:09,033
+Neste vídeo, iniciaremos "Node-2" e "Node-3" e, em seguida, confirmaremos se a rede privada está em execução.
+
+1
+00:00:10,222 --> 00:00:13,913
+Primeiro, vamos mudar o diretório para "Node-2".
+
+2
+00:00:15,263 --> 00:00:22,161
+Lá, iremos na Documentação e copiaremos o comando para iniciar o segundo nó.
+
+3
+00:00:23,163 --> 00:00:28,945
+Lembra do vídeo anterior em que precisávamos copiar a URL do enode?
+
+4
+00:00:29,899 --> 00:00:37,846
+Você pode ver neste comando que há um local onde você pode colar a URL do enode.
+
+5
+00:00:38,581 --> 00:00:46,322
+A maneira mais rápida de fazer isso é provavelmente abrir um arquivo de texto separado e criar o próprio comando.
+
+6
+00:00:47,535 --> 00:00:58,838
+Aqui, apenas para provar o ponto, vou deletar o texto do espaço reservado, voltar para um terminal anterior...
+
+7
+00:00:59,412 --> 00:01:06,064
+...onde o bootnode está em execução, copie a URL do enode e cole-a.
+
+8
+00:01:06,768 --> 00:01:13,565
+Mas para "Node-3", já construímos o comando para que seja muito mais rápido.
+
+9
+00:01:16,500 --> 00:01:20,943
+Pressione Enter e "Node-2" começará a ser executado.
+
+10
+00:01:24,212 --> 00:01:27,763
+Agora precisamos abrir outro terminal.
+
+11
+00:01:28,895 --> 00:01:32,000
+Vamos mudar o diretório para "Node-3".
+
+12
+00:01:33,955 --> 00:01:45,467
+Na documentação, executaremos outro comando, que é semelhante ao comando que executamos com "Node-2" com algumas pequenas diferenças.
+
+13
+00:01:46,130 --> 00:01:53,331
+Eu já criei esse comando e peguei o URL do enode, colei e ele começou a rodar.
+
+14
+00:01:54,560 --> 00:01:57,077
+Vamos garantir que nossa rede privada esteja funcionando.
+
+15
+00:01:58,597 --> 00:02:08,257
+Vamos abrir um novo terminal depois de inspecionar as três primeiras janelas.
+
+16
+00:02:13,091 --> 00:02:25,590
+Vamos executar um comando 'curl', que nos retornará que "Node-1" tem dois pares, que neste caso serão "Node-2" e "Node-3".
+
+17
+00:02:26,997 --> 00:02:27,997
+E lá vamos nós.
+
+18
+00:02:28,110 --> 00:02:30,190
+Nossa rede privada está funcionando.

@@ -1,0 +1,35 @@
+0
+00:00:00,659 --> 00:00:06,388
+Neste vídeo, mostraremos como criar uma rede privada usando o Hyperledger Besu.
+
+1
+00:00:06,949 --> 00:00:13,779
+Especificamente, estamos acompanhando o tutorial de prova de autoridade da rede Clique encontrado na documentação.
+
+2
+00:00:14,889 --> 00:00:21,138
+Como primeiro passo, precisamos criar a estrutura de arquivo correta para este tutorial.
+
+3
+00:00:22,230 --> 00:00:32,948
+Portanto, criaremos uma pasta chamada "Clique-Network" usando o comando make directory e navegaremos até essa pasta usando o comando change directory ou 'cd'.
+
+4
+00:00:33,583 --> 00:00:40,789
+Em seguida, criaremos três pastas chamadas "Node-1", "Node-2" e "Node-3".
+
+5
+00:00:41,640 --> 00:00:48,863
+Depois de criados, precisamos navegar em cada uma dessas pastas e criar uma pasta chamada "dados".
+
+6
+00:00:49,134 --> 00:00:58,428
+Faremos isso usando o comando change directory e, em seguida, o comando make directory, criando uma pasta chamada "data".
+
+7
+00:01:00,968 --> 00:01:11,132
+Você também pode fazer isso usando um explorador de arquivos, que terá um formato baseado em interface gráfica do usuário.
+
+8
+00:01:11,650 --> 00:01:25,026
+Mas, neste caso, estou usando o Visual Studio Code e o terminal que posso ativar no Visual Studio Code para prosseguir e criar a estrutura de pastas necessária para este tutorial.

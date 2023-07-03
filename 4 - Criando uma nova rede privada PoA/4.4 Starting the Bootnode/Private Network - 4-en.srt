@@ -1,0 +1,31 @@
+0
+00:00:00,640 --> 00:00:08,139
+Neste vídeo, ensinaremos como iniciar o bootnode para o Tutorial de prova de autoridade da rede Clique.
+
+1
+00:00:09,443 --> 00:00:11,651
+Você pode encontrar o comando na documentação.
+
+2
+00:00:12,702 --> 00:00:22,198
+E você pode ver as várias opções que fazem parte do comando, que incluem o uso do arquivo genesis como parte das opções de inicialização.
+
+3
+00:00:23,018 --> 00:00:30,521
+Copiaremos esse comando, iremos ao nosso terminal, navegaremos até "Node-1".
+
+4
+00:00:30,878 --> 00:00:36,336
+"Node-1" será nosso bootnode, portanto, precisamos estar nessa pasta quando executarmos este comando.
+
+5
+00:00:39,968 --> 00:00:45,798
+Depois de iniciado, precisamos nos lembrar de copiar o URL do enode.
+
+6
+00:00:46,314 --> 00:00:52,118
+Usaremos a URL do enode quando iniciarmos "Node-2" e "Node-3".
+
+7
+00:00:52,623 --> 00:00:55,216
+Voltaremos a isso no próximo vídeo.

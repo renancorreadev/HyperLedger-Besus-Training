@@ -1,0 +1,3 @@
+besu --data-path=data --genesis-file=../cliqueGenesis.json --network-id 123 --rpc-http-enabled --rpc-http-api=ETH,NET,CLIQUE --host-allowlist="*" --rpc-http-cors-origins="all"
+
+For more information, please see the Hyperledger Besu Documentation, ["Using Clique (PoA) - Start the First Node as the Bootnode"](https://besu.hyperledger.org/en/stable/Tutorials/Private-Network/Create-Private-Clique-Network/#4-start-the-first-node-as-the-bootnode). 

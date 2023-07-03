@@ -1,0 +1,87 @@
+0
+00:00:00,539 --> 00:00:08,124
+Neste vídeo, vamos ensinar como criar o arquivo genesis para nosso blockchain Clique Network Proof of Authority.
+
+1
+00:00:09,157 --> 00:00:16,077
+O arquivo genesis vai contar ao nosso primeiro bloco em nosso blockchain, alguns de seus requisitos de inicialização.
+
+2
+00:00:16,910 --> 00:00:20,725
+Isso vai incluir a taxa na qual minerar novos blocos.
+
+3
+00:00:21,900 --> 00:00:28,969
+Para que todos os nós acessem essas informações, precisaremos incluir esse arquivo no diretório de nível superior...
+
+4
+00:00:29,686 --> 00:00:34,555
+...e, portanto, precisamos ter certeza de que está na pasta "Clique-Network".
+
+5
+00:00:36.000 --> 00:00:41.531
+Este arquivo conterá JavaScript Object Notation, também conhecido como JSON.
+
+6
+00:00:42,506 --> 00:00:47,956
+Podemos ver os requisitos que está passando para o primeiro bloco.
+
+7
+00:00:50,872 --> 00:00:57,191
+Nós mesmos teremos que modificar um bit de informação dentro deste arquivo.
+
+8
+00:00:57,791 --> 00:01:02,660
+Precisamos obter o "Node 1 Address", que é o nosso signatário.
+
+9
+00:01:04,110 --> 00:01:19,118
+O "Endereço do Nó 1" será colocado aqui e é importante observar que, quando o inserirmos, não teremos que incluir o prefixo 0x no endereço.
+
+10
+00:01:19,501 --> 00:01:21,507
+Então você pode ver um exemplo abaixo.
+
+11
+00:01:22,982 --> 00:01:32,476
+Vamos copiar isso, salvar o arquivo e essa modificação nos fornecerá nosso arquivo genesis exclusivo.
+
+12
+00:01:33,226 --> 00:01:40,270
+No entanto, é sempre importante observar que não devemos usar essas informações ao nos conectarmos a uma rede pública.
+
+13
+00:01:41,861 --> 00:01:50,755
+Então, vamos copiar isso, vamos ao nosso editor de texto e, no terminal, vamos usar o comando 'touch'...
+
+14
+00:01:50,980 --> 00:02:02,318
+...e então vamos criar o arquivo genesis usando o comando 'touch cliqueGenesis.json'.
+
+15
+00:02:02,876 --> 00:02:06,100
+Vou abrir, colar as informações.
+
+16
+00:02:07,875 --> 00:02:09,684
+Agora precisamos fazer essa mudança.
+
+17
+00:02:13,475 --> 00:02:17,793
+O "Node 1 Address" está dentro da pasta "data" contida em "Node-1".
+
+18
+00:02:18,809 --> 00:02:20,055
+Então abra.
+
+19
+00:02:22,355 --> 00:02:25,193
+Não copiaremos o prefixo 0x.
+
+20
+00:02:30,438 --> 00:02:34,697
+Vamos colar isso em nosso arquivo genesis.
+
+21
+00:02:38,347 --> 00:02:40,982
+Vamos salvá-lo e agora estamos prontos para ir para a próxima etapa.

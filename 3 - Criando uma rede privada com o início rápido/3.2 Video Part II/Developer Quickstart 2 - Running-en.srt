@@ -1,0 +1,83 @@
+0
+00:00:00,880 --> 00:00:04,230
+Neste vídeo, vamos executar o início rápido.
+
+1
+00:00:05,830 --> 00:00:07,590
+Começaremos abrindo nosso terminal.
+
+2
+00:00:08,838 --> 00:00:17,248
+Uma vez aberto o terminal, vamos mudar o diretório ou "cd" para a pasta apropriada.
+
+3
+00:00:18,787 --> 00:00:23,935
+O nome da pasta é "quorum-test-network".
+
+4
+00:00:26,860 --> 00:00:30,150
+Pressione Enter e somos levados para essa pasta.
+
+5
+00:00:32,478 --> 00:00:34,744
+A execução do comando 'ls' listará os arquivos.
+
+6
+00:00:36,443 --> 00:00:39,754
+Há um README lá, que é um arquivo markdown.
+
+7
+00:00:40,535 --> 00:00:44,756
+Usando o comando 'less', podemos explorar o README.
+
+8
+00:00:46,486 --> 00:00:51,790
+Vamos digitar 'less README.md'.
+
+9
+00:00:57,463 --> 00:01:08,052
+Dentro do README, podemos ver as diferentes configurações que podemos usar no Quickstart.
+
+10
+00:01:10,570 --> 00:01:19,344
+Também nos dará diferentes configurações que podemos usar e instruções sobre como usar essas configurações.
+
+11
+00:01:30,915 --> 00:01:32,736
+Ao pressionar Q, podemos sair.
+
+12
+00:01:37,207 --> 00:01:38,840
+Agora, vamos iniciar o início rápido.
+
+13
+00:01:39,070 --> 00:01:46,868
+Usaremos o comando './run.sh', que executará um script bash.
+
+14
+00:01:47,657 --> 00:01:51,402
+Esse script bash executará o início rápido.
+
+15
+00:01:52,810 --> 00:01:57,375
+Vamos explorar um dos endpoints com um serviço em execução nele.
+
+16
+00:01:59,059 --> 00:02:01,159
+Vamos olhar para o "Explorador de blocos da Web".
+
+17
+00:02:02,675 --> 00:02:05,842
+Assim, podemos pegar esse endereço e soltá-lo diretamente em nosso navegador.
+
+18
+00:02:07,503 --> 00:02:12,090
+O explorador de blocos da web nos permite ver os blocos como mina em nossa máquina.
+
+19
+00:02:14,096 --> 00:02:15,658
+O Hyperledger Besu está em execução.
+
+20
+00:02:15,658 --> 00:02:16,310
+Excelente.

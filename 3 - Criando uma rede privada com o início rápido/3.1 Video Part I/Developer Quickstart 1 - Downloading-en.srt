@@ -1,0 +1,35 @@
+0
+00:00:00,680 --> 00:00:06,000
+Neste vídeo, ensinaremos como usar o início rápido do desenvolvedor Hyperledger Besu.
+
+1
+00:00:06,986 --> 00:00:14,472
+Você navegará para o início rápido do desenvolvedor acessando a documentação do Hyperledger Besu.
+
+2
+00:00:16,807 --> 00:00:21,523
+Você clicará em "Tutoriais" e navegará até "Início rápido do desenvolvedor".
+
+3
+00:00:23,330 --> 00:00:39,661
+Antes de executar o Developer Quickstart, você precisará ter instalado o Docker e o Docker Compose, o Node.js e, para aqueles que usam o Windows, o Windows Subsystem for Linux 2 e o Docker desktop configurado para usar o Windows Subsystem for Linux 2.
+
+4
+00:00:40,209 --> 00:00:47,157
+Você pode seguir junto com o link fornecido, se você for um usuário do Windows para configurar corretamente o Windows Subsystem for Linux 2.
+
+5
+00:00:48,970 --> 00:00:56,666
+Como é mencionado no início rápido, mostrarei como configurar o Docker para ter a quantidade correta de memória.
+
+6
+00:00:58,460 --> 00:01:09,058
+Uma vez baixado, abra o Docker, vá para a engrenagem [ícone], vá para "Recursos" e verifique se você tem a quantidade certa de memória alocada.
+
+7
+00:01:09,453 --> 00:01:11,457
+Eu aloquei 8 GB aqui.
+
+8
+00:01:15,818 --> 00:01:26,290
+Agora, podemos copiar este comando, abrir nosso terminal, colá-lo e pressionar Enter para baixar o Quickstart.
